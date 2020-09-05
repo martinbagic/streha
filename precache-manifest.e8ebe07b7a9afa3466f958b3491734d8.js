@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83f81163d392a7b87dd7a48a7b8da683",
+    "revision": "6dcaddd303505ab195de1ff0ce22528b",
     "url": "/streha/index.html"
   },
   {
-    "revision": "26f139e615b262dd8705",
+    "revision": "c48c96dabf24c53f903f",
     "url": "/streha/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/streha/static/js/2.604c7e04.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26f139e615b262dd8705",
-    "url": "/streha/static/js/main.360de4f9.chunk.js"
+    "revision": "c48c96dabf24c53f903f",
+    "url": "/streha/static/js/main.af959906.chunk.js"
   },
   {
     "revision": "ca398ef8dd432dfdc0c6",
     "url": "/streha/static/js/runtime-main.b9866aa8.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/streha/static/media/logo.5d5d9eef.svg"
+    "revision": "1ea1820a40ada3c4642b679367d5c565",
+    "url": "/streha/static/media/logo.1ea1820a.svg"
   }
 ]);

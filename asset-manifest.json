@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/streha/static/css/main.5f361e03.chunk.css",
-    "main.js": "/streha/static/js/main.360de4f9.chunk.js",
-    "main.js.map": "/streha/static/js/main.360de4f9.chunk.js.map",
+    "main.js": "/streha/static/js/main.af959906.chunk.js",
+    "main.js.map": "/streha/static/js/main.af959906.chunk.js.map",
     "runtime-main.js": "/streha/static/js/runtime-main.b9866aa8.js",
     "runtime-main.js.map": "/streha/static/js/runtime-main.b9866aa8.js.map",
     "static/js/2.604c7e04.chunk.js": "/streha/static/js/2.604c7e04.chunk.js",
     "static/js/2.604c7e04.chunk.js.map": "/streha/static/js/2.604c7e04.chunk.js.map",
     "index.html": "/streha/index.html",
-    "precache-manifest.7ebece9adbd579502ce3ecf8091e5843.js": "/streha/precache-manifest.7ebece9adbd579502ce3ecf8091e5843.js",
+    "precache-manifest.e8ebe07b7a9afa3466f958b3491734d8.js": "/streha/precache-manifest.e8ebe07b7a9afa3466f958b3491734d8.js",
     "service-worker.js": "/streha/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/streha/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.604c7e04.chunk.js.LICENSE.txt": "/streha/static/js/2.604c7e04.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/streha/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/streha/static/media/logo.1ea1820a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b9866aa8.js",
     "static/js/2.604c7e04.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.360de4f9.chunk.js"
+    "static/js/main.af959906.chunk.js"
   ]
 }

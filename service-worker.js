@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/streha/precache-manifest.7ebece9adbd579502ce3ecf8091e5843.js"
+  "/streha/precache-manifest.e8ebe07b7a9afa3466f958b3491734d8.js"
 );
 
 self.addEventListener('message', (event) => {
